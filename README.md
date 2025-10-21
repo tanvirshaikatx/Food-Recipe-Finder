@@ -124,3 +124,4 @@ Gradio team for simple web deployment
 Open-source contributors and datasets
 
 Google Colab for model training support
+
