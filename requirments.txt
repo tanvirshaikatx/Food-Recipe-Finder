@@ -1,0 +1,7 @@
+torchvision
+requests
+transformers==4.45.1
+torch
+Pillow
+gradio
+
